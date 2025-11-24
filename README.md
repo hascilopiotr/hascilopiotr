@@ -1,4 +1,4 @@
-# Hello, I'm Peter! 👋
+# Hello, I'm Peter! 
 
 ### 🎓 Aspiring Data Scientist | Python & SQL Practitioner
 **📍 3rd-year Computer Science Student at Silesian University of Technology**
