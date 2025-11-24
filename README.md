@@ -10,7 +10,7 @@ I am eager to contribute to real-world projects and learn from experienced teams
 
 ---
 
-### 🧰 My Tech Stack
+### 🧰 My Tech skills
 
 **Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,20 +46,7 @@ I am eager to contribute to real-world projects and learn from experienced teams
 * **Details:** Performed Exploratory Data Analysis (EDA) to reveal a 0.68 positive correlation between total bill and tip size. Developed a Linear Regression model with an MSE of 0.70 to forecast future tips based on customer demographics.
 * [Check out the Repository](https://github.com/hascilopiotr/KaggleCustomersTipping.git)
 
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hascilopiotr&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hascilopiotr&theme=radical&hide_border=false" height="150" alt="streak graph" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hascilopiotr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
-
----
-
-### 🌱 What I'm Learning Right Now
+###  Currently working on
 * Deepening my understanding of Regression and Classification algorithms.
 * Improving my Data Storytelling skills with visualization tools.
 * Trying to learn other tools used to clean and visualize data
