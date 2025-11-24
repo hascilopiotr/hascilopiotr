@@ -67,6 +67,6 @@ I am eager to contribute to real-world projects and learn from experienced teams
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piotr-Haściło)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Piotr-Haściło](https://www.linkedin.com/in/piotr-ha%C5%9Bci%C5%82o-2168a529a/))
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/piotrhascilo)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roboczy.hascilo@gmail.com)
