@@ -70,9 +70,3 @@ I am eager to contribute to real-world projects and learn from experienced teams
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Piotr-Haściło)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/piotrhascilo)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roboczy.hascilo@gmail.com)
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=hascilopiotr&icon=0&color=0" />
-  </a>
-</div>
