@@ -1,6 +1,6 @@
 # Hello, I'm Peter  
 
-### 🎓 Aspiring Data Scientist | Python & SQL Practitioner  
+### 🎓 Aspiring Data Scientist 
 **3rd-year Computer Science Student – Silesian University of Technology**  
 **Actively looking for Data Science / Analytics internships**
 
