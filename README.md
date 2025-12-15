@@ -32,17 +32,23 @@ I’m building a solid foundation in **Data Science** and **Machine Learning**, 
 
 ### 🚀 Featured Projects
 
-**🏎️ [Formula 1 Telemetry Analysis]**  
-* **Goal:** Explore driver performance using real race telemetry.  
-* **Tech:** Python, FastF1 API, NumPy, Matplotlib.  
-* **Details:** Visualized Lewis Hamilton’s fastest lap at the Mexico GP, mapping gear usage and braking zones directly on the track layout.  
-* 👉 [Check out the Repository](https://github.com/hascilopiotr/Formula-1-Telemetry-Visualization.git)
+**🏦 [Credit Risk & Default Prediction Engine]**
+* **Goal:** Minimize financial exposure by predicting loan default probabilities on imbalanced datasets.
+* **Tech:** Python, Scikit-Learn, SHAP, Pandas, Matplotlib.
+* **Details:** Built a Random Forest classifier optimizing for Precision-Recall AUC. Implemented a custom threshold-tuning strategy (0.2 cutoff) and a business logic layer to segment applicants into Accept, Review, and Reject tiers, *successfully capturing 96% of high-risk clients.
+* 👉 [Check out the Repository](https://github.com/hascilopiotr/LoanPrediction.git)
 
-**💵 [Restaurant Tipping Prediction Model]**  
+**💵 [Restaurant Tipping Prediction Model]** 
 * **Goal:** Model and explain factors influencing tip amounts.  
 * **Tech:** Python, Scikit-Learn (Linear Regression), Pandas, Seaborn.  
 * **Details:** EDA showed a strong positive link between total bill and tip. Built a regression model (MSE ≈ 0.70) to predict tips from customer and bill features.  
 * 👉 [Check out the Repository](https://github.com/hascilopiotr/KaggleCustomersTipping.git)
+
+**🛒 [E-Commerce Customer Segmentation & Recommendation System]**
+* **Goal:** Optimize marketing strategies and increase customer lifetime value through behavioral analysis.
+* **Tech:** Python, Scikit-Learn (K-Means), Pandas, Seaborn, RFM Analysis.
+* **Details:** Processed transactional data to classify customers using RFM (Recency, Frequency, Monetary) scores. Applied K-Means clustering to identify distinct shopper personas (e.g., "Whales," "Loyalists," "Churn Risks") and implemented * Market Basket Analysis (Apriori algorithm) to generate "Frequently Bought Together" product recommendations.
+* 👉 [Check out the Repository](https://github.com/hascilopiotr/ECommerceAnalitycs-KMeans-clustering.git)
 
 ---
 
