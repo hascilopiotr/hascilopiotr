@@ -35,7 +35,7 @@ I’m building a solid foundation in **Data Science** and **Machine Learning**, 
 **🏦 [Credit Risk & Default Prediction Engine]**
 * **Goal:** Minimize financial exposure by predicting loan default probabilities on imbalanced datasets.
 * **Tech:** Python, Scikit-Learn, SHAP, Pandas, Matplotlib.
-* **Details:** Built a Random Forest classifier optimizing for Precision-Recall AUC. Implemented a custom threshold-tuning strategy (0.2 cutoff) and a business logic layer to segment applicants into Accept, Review, and Reject tiers, *successfully capturing 96% of high-risk clients.
+* **Details:** Built a Random Forest classifier optimizing for Precision-Recall AUC. Implemented a custom threshold-tuning strategy (0.35 cutoff) and a business logic layer to segment applicants into Accept, Review, and Reject tiers, *successfully capturing 96% of high-risk clients.
 * 👉 [Check out the Repository](https://github.com/hascilopiotr/LoanPrediction.git)
 
 **💵 [Restaurant Tipping Prediction Model]** 
