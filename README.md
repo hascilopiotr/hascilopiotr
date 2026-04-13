@@ -1,6 +1,6 @@
 # Hello, I'm Peter  
 
-### 🎓 Aspiring Data Scientist 
+### 🎓 Aspiring Data Engineer 
 **3rd-year Computer Science Student – Silesian University of Technology**  
 **Actively looking for Data Engineering / Analytics internships**
 
