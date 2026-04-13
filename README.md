@@ -2,9 +2,9 @@
 
 ### 🎓 Aspiring Data Scientist 
 **3rd-year Computer Science Student – Silesian University of Technology**  
-**Actively looking for Data Science / Analytics internships**
+**Actively looking for Data Engineering / Analytics internships**
 
-I’m building a solid foundation in **Data Science** and **Machine Learning**, focusing on **Python**, **SQL**, statistics and core ML algorithms through hands-on projects.
+I’m building a solid foundation in **Data Engineering** and **Machine Learning**, focusing on **Python**, **SQL**, Data Warehouses through hands-on projects.
 
 ---
 
